@@ -1,0 +1,67 @@
+{
+  "page": {
+    "size": "A4",
+    "orientation": "portrait",
+    "margins_cm": { "top": 1.1, "bottom": 1.1, "left": 1.8, "right": 1.8 }
+  },
+  "layout": {
+    "columns": 1,
+    "max_pages_target": 1,
+    "bullet_char": "\u2022"
+  },
+  "fonts": {
+    "family": "Helvetica",
+    "family_bold": "Helvetica-Bold",
+    "family_italic": "Helvetica-Oblique",
+    "sizes": {
+      "name": 17,
+      "professional_title": 11,
+      "section_heading": 10.5,
+      "job_title": 9.5,
+      "body": 8.7,
+      "small": 8
+    }
+  },
+  "colors": {
+    "primary_text": "#111111",
+    "secondary_text": "#444444",
+    "accent": "#1F3864",
+    "rule": "#1F3864"
+  },
+  "spacing": {
+    "section_gap": 6,
+    "item_gap": 3,
+    "line_leading": 1.12,
+    "rule_thickness_pt": 0.8
+  },
+  "sections_order": [
+    "basics",
+    "experience",
+    "education",
+    "skills",
+    "languages"
+  ],
+  "section_titles": {
+    "experience": "Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "languages": "Languages"
+  },
+  "ats_settings": {
+    "embed_metadata": true,
+    "use_real_text_only": true,
+    "avoid_tables_for_layout": true,
+    "avoid_text_boxes": true,
+    "avoid_headers_footers": true,
+    "avoid_multicolumn": true,
+    "standard_section_headings": true,
+    "date_format_in_text": "MM/YYYY"
+  },
+  "metadata": {
+    "title": "{name} - CV",
+    "author": "{name}",
+    "subject": "Curriculum Vitae - {professionalTitle}",
+    "keywords": ["CV", "Resume", "Data Science", "Machine Learning", "ML Engineer"]
+  },
+  "output_filename": "Esteban_Lopez_CV.pdf"
+}

@@ -1,0 +1,162 @@
+{
+  "basics": {
+    "name": "Esteban LOPEZ",
+    "professionalTitle": "Data Scientist - Ingénieur ML",
+    "professionalProfile": "Compétent en analyse de données, visualisation de données, ainsi qu'en développement et déploiement de modèles de machine learning. Expérimenté en développement logiciel et automatisation des processus, avec de solides compétences en communication et en gestion de projet. A travaillé avec des équipes diverses dans les secteurs bancaire et des services financiers, contribuant à la data science, au développement logiciel, à la technologie numérique, au marketing intelligence, et à l'analyse économique.",
+    "email": "test@gmail.com",
+    "phone": "+00 000 000 00",
+    "location": "c"
+  },
+  "education": [
+    {
+      "institution": "Université de Strasbourg",
+      "degree": "Master en Analyse et Politique Économique & Data Science pour le Business",
+      "city": "Strasbourg",
+      "country": "France"
+    },
+    {
+      "institution": "National University of Colombia",
+      "degree": "Licence en Économie",
+      "city": "Bogotá",
+      "country": "Colombie"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Exo Partners",
+      "position": "Chef de Projet en IA et Automatisation",
+      "city": "Lyon",
+      "country": "France",
+      "startDate": "22/12/2023",
+      "endDate": "",
+      "currentlyWorking": true,
+      "industry": "Développement",
+      "description": "Diriger le développement de modèles d'IA et de solutions d'automatisation. Développement d'un modèle XGBoost autorégressif utilisant les prédictions et leurs distributions d'erreurs pour identifier des anomalies dans des séries temporelles. Direction de projets d'automatisation de l'ingestion de données, incluant des services de lecture et d'écriture de données structurées dans des bases de données, ainsi que des applications conviviales pour extraire, préparer et insérer des données dans des bases SQL, et le déploiement d'applications Streamlit locales pour l'ingestion de données, la visualisation et le suivi des modèles de ML. Optimisation de l'allocation des ressources aux tâches pour améliorer la planification interne.",
+      "achievements": [
+        "Accéléré l'intégration des données historiques dans les bases de données",
+        "Automatisé l'optimisation de la planification des tâches et des ressources"
+      ],
+      "technologies": [
+        "C#",
+        "Python",
+        "Azure",
+        "SQL"
+      ]
+    },
+    {
+      "company": "Mars Global Services",
+      "position": "Stage en Optimisation et Intelligence Artificielle",
+      "city": "Strasbourg",
+      "country": "France",
+      "startDate": "27/02/2023",
+      "endDate": "27/06/2023",
+      "currentlyWorking": false,
+      "industry": "Informatique",
+      "description": "Dirigé l'accélération de la migration des actifs web depuis des technologies obsolètes vers Drupal grâce à l'IA, ainsi que l'automatisation de la création des composants du système de gestion de contenu. Développé et déployé un modèle de vision par ordinateur pour catégoriser les pages web selon leur interface utilisateur, combiné à des stratégies de scraping en Python et une API LLM pour nettoyer et extraire le contenu textuel pertinent, en utilisant l'API Drupal pour créer tous les composants de base et les remplir. Déployé l'application avec le calcul serverless Azure Functions.",
+      "achievements": [
+        "Atteint 62 % d'automatisation dans la migration des actifs numériques"
+      ],
+      "technologies": [
+        "Python",
+        "Azure",
+        "Drupal",
+        "Docker",
+        "S3"
+      ]
+    },
+    {
+      "company": "Bank Davivienda",
+      "position": "Développeur Backend en Marketing Intelligence",
+      "city": "Bogotá",
+      "country": "Colombie",
+      "startDate": "28/12/2020",
+      "endDate": "14/08/2020",
+      "currentlyWorking": false,
+      "industry": "Banque",
+      "description": "Développé et déployé des campagnes marketing en temps réel déclenchées par événements en utilisant Java et la suite SAS Marketing, en intégrant des données provenant de bases de données et d'API. Amélioré l'efficacité et la qualité des données grâce au développement ETL sur Microsoft SQL Server. Soutenu l'analyse marketing en formulant des hypothèses, en analysant les données et en construisant des tableaux de bord pour améliorer le ciblage des campagnes.",
+      "achievements": [
+        "Déployé les trois premiers projets de Marketing en Temps Réel de l'entreprise"
+      ],
+      "technologies": [
+        "SASReal Time Decision",
+        "Python",
+        "PowerBI",
+        "SQL"
+      ]
+    },
+    {
+      "company": "Covinoc",
+      "position": "Data Scientist",
+      "city": "Bogotá",
+      "country": "Colombie",
+      "startDate": "13/11/2019",
+      "endDate": "27/12/2020",
+      "currentlyWorking": false,
+      "industry": "Financier - Recouvrement de créances",
+      "description": "Développé et déployé des modèles de classification en ML pour la segmentation des clients et des modèles de régression pour la prédiction des remboursements. Réalisé l'analyse et la visualisation de données avec Power BI pour soutenir les décisions stratégiques. Conçu des logiciels et intégré des tableaux de bord avec des sources de données pour optimiser les opérations et cibler les clients ayant un potentiel de remboursement plus élevé.",
+      "achievements": [
+        "Amélioré l'efficacité opérationnelle de 15 % grâce à l'automatisation des flux de travail"
+      ],
+      "technologies": [
+        "SPSS Modele",
+        "Knime",
+        "R",
+        "Python",
+        "PowerBI",
+        "SQL"
+      ]
+    },
+    {
+      "company": "CAF Development Bank of Latin America. ",
+      "position": "Stage sur les Projets de Développement Économique",
+      "city": "Bogotá",
+      "country": "Colombie",
+      "startDate": "14/02/2019",
+      "endDate": "14/07/2019",
+      "currentlyWorking": false,
+      "industry": "Banque",
+      "description": "Analysé les plans de développement gouvernementaux pour identifier des opportunités et évaluer le financement de projets à fort impact social et économique. Mis à jour et automatisé le système de suivi de projets, et soutenu les activités administratives ainsi que le département d'analyse macroéconomique.",
+      "achievements": [
+        "Reconstruit le système interne utilisé pour suivre l'avancement des projets"
+      ],
+      "technologies": [
+        "Excel"
+      ]
+    },
+    {
+      "company": "Bank Itaú",
+      "position": "Stage en Analyse Économique",
+      "city": "Bogotá",
+      "country": "Colombie",
+      "startDate": "14/12/2017",
+      "endDate": "14/06/2018",
+      "currentlyWorking": false,
+      "industry": "Banque",
+      "description": "Préparé des points économiques quotidiens pour les courtiers et traders en consolidant les actualités économiques de la veille et en analysant les tendances macroéconomiques et leur impact sur les prix des devises et des matières premières. Traduit des concepts économiques techniques en un langage accessible pour les non-spécialistes. A également développé des modèles de machine learning pour prédire l'inflation et le chômage.",
+      "achievements": [
+        ""
+      ],
+      "technologies": [
+        "Excel",
+        "Bloomberg",
+        "eviews"
+      ]
+    }
+  ],
+  "languages": {
+    "English": "C1",
+    "French": "C1",
+    "Spanish": "Langue maternelle"
+  },
+  "skills": [
+    "Python (scikit-learn, TensorFlow, PyTorch)",
+    "R", "C#", "Java", "SQL", "MongoDB",
+    "Streamlit", "Docker", "AWS", "Azure",
+    "SPSS", "SAS Real-Time Decision",
+    "PowerBI", "Google Data Studio", "Tableau",
+    "Gestion et organisation d'équipe"
+  ],
+  "hobbies": [
+    "J'aime les activités de plein air comme la randonnée et le vélo, ainsi que certaines activités extrêmes comme l'escalade ou le rafting. Mais ma passion, c'est la musique, je joue de la guitare depuis 5 ans."
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "basics": {
+    "name": "Esteban LOPEZ",
+    "professionalTitle": "Data Scientist - ML Engineer",
+    "professionalProfile": "Proficient in data analysis, data visualization, and the development and deployment of machine learning models. Experienced in software development and process automation, with strong communication and project management skills. Worked with diverse teams across banking and financial services, contributing to data science, software development, digital technology, marketing intelligence, and economic analysis.",
+    "email": "test@gmail.com",
+    "phone": "+00 000 000 00",
+    "location": "c"
+  },
+  "education": [
+    {
+      "institution": "Université de Strasbourg",
+      "degree": "Master in Economic Analysis and Policy & Data Science for Business",
+      "city": "Strasbourg",
+      "country": "France"
+    },
+    {
+      "institution": "National University of Colombia",
+      "degree": "Bachelor in Economics",
+      "city": "Bogotá",
+      "country": "Colombia"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Exo Partners",
+      "position": "Project Manager on AI and Automation",
+      "city": "Lyon",
+      "country": "France",
+      "startDate": "22/12/2023",
+      "endDate": "",
+      "currentlyWorking": true,
+      "industry": "Developement",
+      "description": "Lead the development of AI models and automation solutions. Developed an autoregressive XGBoost model that uses prediction and it's error distributions to identify anomalies in time series. Lead data ingestion automation projects, including services that read and write structured data to databases and user friendly applications for extracting, preparing, and inserting data into SQL databases and deploying local Streamlit applications for data ingestion, visualization, and ML model monitoring. Optimization of task-resource allocation to improve internal planning.",
+      "achievements": [
+        "Accelerated historical data integration into databases",
+        "Automated task and resource planning optimization"
+      ],
+      "technologies": [
+        "C#",
+        "Python",
+        "Azure",
+        "SQL"
+      ]
+    },
+    {
+      "company": "Mars Global Services",
+      "position": "Internship on Optimization & Artificial Intelligence ",
+      "city": "Strasbourg",
+      "country": "France",
+      "startDate": "27/02/2023",
+      "endDate": "27/06/2023",
+      "currentlyWorking": false,
+      "industry": "Informatics",
+      "description": "Led the acceleration of migration of web assets from legacy technologies to Drupal using AI and the automation of the creation of the Content Management System components. Developed and deployed a computer vision model to categorize web pages based on their user interface, combined with scrapping strategies on python and an LLM API to clean and extract relevant text content, used the Drupal API to create all the basic components and populate them.  Deployed the application with Azure Functions serverless computing.",
+      "achievements": [
+        "Achieved 62% automation in digital asset migration"
+      ],
+      "technologies": [
+        "Python",
+        "Azure",
+        "Drupal",
+        "Docker",
+        "S3"
+      ]
+    },
+    {
+      "company": "Bank Davivienda",
+      "position": "Backend Developer on Marketing Intelligence",
+      "city": "Bogotá",
+      "country": "Colombia",
+      "startDate": "28/12/2020",
+      "endDate": "14/08/2020",
+      "currentlyWorking": false,
+      "industry": "Banking",
+      "description": "Developed and deployed real time, event triggered marketing campaigns using Java and the SAS Marketing Suite, integrating data from databases and APIs. Improved efficiency and data quality through ETL development on Microsoft SQL Server. Supported marketing analysis by formulating hypotheses, analyzing data, and building dashboards to improve campaign targeting.",
+      "achievements": [
+        "Deployed the company’s first three Real-Time Marketing projects"
+      ],
+      "technologies": [
+        "SASReal Time Decision",
+        "Python",
+        "PowerBI",
+        "SQL"
+      ]
+    },
+    {
+      "company": "Covinoc",
+      "position": "Data Scientist",
+      "city": "Bogotá",
+      "country": "Colombia",
+      "startDate": "13/11/2019",
+      "endDate": "27/12/2020",
+      "currentlyWorking": false,
+      "industry": "Financial - Debt collection",
+      "description": "Developed and deployed ML classification models for customer segmentation and regression models for repayment prediction. Performed data analysis and visualization with Power BI to support strategic decisions. Designed software and integrated dashboards with data sources to optimize operations and target customers with higher repayment potential.",
+      "achievements": [
+        "Improved operational efficiency by 15% through workflow automation"
+      ],
+      "technologies": [
+        "SPSS Modele",
+        "Knime",
+        "R",
+        "Python",
+        "PowerBI",
+        "SQL"
+      ]
+    },
+    {
+      "company": "CAF Development Bank of Latin America. ",
+      "position": "Internship on Projects of Economic Development ",
+      "city": "Bogotá",
+      "country": "Colombia",
+      "startDate": "14/02/2019",
+      "endDate": "14/07/2019",
+      "currentlyWorking": false,
+      "industry": "Banking",
+      "description": "Analyzed government development plans to identify opportunities and evaluate funding for projects with significant social and economic impact. Updated and automated the system available for tracking project and supported administrative activities and the macroeconomic analysis department.",
+      "achievements": [
+        "Rebuilt the internal system used to track project progress"
+      ],
+      "technologies": [
+        "Excel"
+      ]
+    },
+    {
+      "company": "Bank Itaú",
+      "position": "Internship on Economic Analysis",
+      "city": "Bogotá",
+      "country": "Colombia",
+      "startDate": "14/12/2017",
+      "endDate": "14/06/2018",
+      "currentlyWorking": false,
+      "industry": "Banking",
+      "description": "Prepared daily economic briefings for brokers and traders by consolidating the previous day’s economic news and analyzing macroeconomic trends and their impact on currency and commodity prices. Translated technical economic concepts into accessible language for non specialists. Also developed machine learning models to predict inflation and unemployment.",
+      "achievements": [
+        ""
+      ],
+      "technologies": [
+        "Excel",
+        "Bloomberg",
+        "eviews"
+      ]
+    }
+  ],
+  "languages": {
+    "English": "C1",
+    "French": "C1",
+    "Spanish": "Native"
+  },
+  "skills": [
+    "Python (scikit-learn, TensorFlow, PyTorch)",
+    "R", "C#", "Java", "SQL", "MongoDB",
+    "Streamlit", "Docker", "AWS", "Azure",
+    "SPSS", "SAS Real-Time Decision",
+    "PowerBI", "Google Data Studio", "Tableau",
+    "Team management and organization"
+  ],
+  "hobbies": [
+    "I enjoy outdoor activities such as hiking and biking, some extreme activities like climbing or rafting. But my passion is the music, I have been playing the guitar for 5 years."
+  ]
+}
